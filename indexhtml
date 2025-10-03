@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Golden Sky_Official</title>
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif; /* Readable font */
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9; /* Light gray background */
+            color: #333; /* Dark gray text */
+            text-align: center; /* Center everything for simplicity */
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #ffffff; /* White content box */
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Subtle shadow */
+            border-radius: 8px;
+        }
+        h1 {
+            color: #007bff; /* A nice blue color */
+            margin-bottom: 10px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Project Zenith 🚀</h1>
+        <p>This is a brilliant and simple web page.</p>
+        <p>Its goal is **clarity and speed**. The design uses plenty of **white space** and a single, readable font.</p>
+        
+        <p>
+            <a href="#">Learn More</a> | 
+            <a href="#">Contact Us</a>
+        </p>
+        
+        <hr>
+        
+        <footer>
+            <small>&copy; 2025 Simple Web Design</small>
+        </footer>
+    </div>
+    <h2>H.B.D.P.PIYUMAL</h2>
+</body>
+</html>
